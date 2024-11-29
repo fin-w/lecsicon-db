@@ -15,4 +15,4 @@ diesel setup
 ```
 Ensure the Hunspell .aff and .dic files for Welsh are present at /usr/share/hunspell/cy_GB.aff and /usr/share/hunspell/cy_GB.dic for spelling correction suggestions (files are available [here](https://github.com/fin-w/LibreOffice-Geiriadur-Cymraeg-Welsh-Dictionary/tree/main/dictionaries)).
 
-Use [tiwtor](https://github.com/fin-w/tiwtor) for a demonstration of leciscon-db in action.
+Use [tiwtor](https://github.com/fin-w/tiwtor) for a demonstration of lecsicon-db in action.
